@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.image-charts/image-charts-mcp",
+  "title": "Image-Charts",
+  "description": "Turns a chart request into a permanent, hosted Image-Charts image URL that embeds anywhere.",
+  "websiteUrl": "https://www.image-charts.com",
+  "repository": {
+    "url": "https://github.com/image-charts/image-charts-mcp",
+    "source": "github"
+  },
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "image-charts-mcp",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
