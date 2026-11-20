@@ -1,6 +1,7 @@
 {
   "name": "image-charts-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "mcpName": "io.github.image-charts/image-charts-mcp",
   "description": "Model Context Protocol server that turns an agent's chart request into a permanent, hosted, shareable Image-Charts image URL.",
   "type": "module",
   "bin": {
